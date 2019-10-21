@@ -1,0 +1,46 @@
+{
+    "root": "./",
+    "title": "Spring框架核心文档中文",
+    "author": "陈帅帅",
+    "authorHomepage": "https://github.com/chendushuai",
+    "description": "中文文档说明",
+    "language": "zh-hans",
+    "copyright": "All Rights Reserved",
+    "plugins": [
+        "theme-code@0.0.20",
+        "-sharing",
+        "-lunr", 
+        "-search",
+        "search-pro",
+        "splitter",
+        "tbfed-pagefooter",
+        "expandable-chapters-small",
+        "github",
+        "-sharing-plus",
+        "code",
+        "-copy-code-button",
+        "anchor-navigation-ex",
+        "edit-link"
+    ],
+    "pluginsConfig": {
+        "tbfed-pagefooter": {
+            "copyright":"Copyright &copy chenshuaishuai 2019",
+            "modify_label": "修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "expandable-chapters":{},
+        "theme-default": {
+            "showLevel": false
+        },
+        "github": {
+            "url": "https://github.com/chendushuai"
+        },
+        "anchor-navigation-ex":{
+            "showLevel": false
+        },
+        "edit-link": {
+            "base": "https://github.com/chendushuai",
+            "label": ""
+        }
+    }
+}
