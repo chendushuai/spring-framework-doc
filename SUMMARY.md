@@ -19,4 +19,8 @@
     * [1.9 基于注解的容器配置](1_IOC容器\1.9_基于注解的容器配置\1.9_beans-annotation-config.md)
     * [1.11 使用JSR330标准注解](1_IOC容器\1.11_使用JSR330标准注解\1.11_beans-standard-annotations.md)
     * [1.12 基于Java的容器配置](1_IOC容器\1.12_基于Java的容器配置\1.12_beans-java.md)
+    * [1.13 环境抽象](1_IOC容器\1.13_环境抽象\1.13_beans-environment.md)
+        * [1.13.1 bean定义概要文件profiles](1_IOC容器\1.13_环境抽象\1.13.3_beans-using-propertysource.md)
+        * [1.13.2 `PropertySource`抽象](1_IOC容器\1.13_环境抽象\1.13.2_beans-property-source-abstraction.md)
+        * [1.13.3 使用 @PropertySource](1_IOC容器\1.13_环境抽象\1.13.3_beans-using-propertysource.md)
     * [1.16 BeanFactory](1_IOC容器\1.16_BeanFactory\1.16_beans-beanfactory.md)

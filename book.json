@@ -24,7 +24,7 @@
     ],
     "pluginsConfig": {
         "tbfed-pagefooter": {
-            "copyright":"Copyright &copy chenshuaishuai 2019",
+            "copyright":"Copyright &copy 陈帅帅 2019",
             "modify_label": "修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
